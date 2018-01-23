@@ -1,0 +1,67 @@
+﻿生成启动时间为 18/01/19 10:49:43。
+     1>项目“G:\LCCworkPlace_Study\vs2010\seriesPort_2\seriesPort\seriesPort\seriesPort.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\seriesPort.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\seriesPort.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dp_GSL.cpp main.cpp TLS.cpp
+         TLS.cpp
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(17): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(86): warning C4101: “err”: 未引用的局部变量
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(86): warning C4101: “dwTrans”: 未引用的局部变量
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(136): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(137): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(163): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(164): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(110) : 参见“strcat”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(166): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(184): warning C4101: “temp2”: 未引用的局部变量
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(220): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(254): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(255): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(262): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(263): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(279): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(295): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(296): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(313): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(314): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(320): warning C4244: “=”: 从“double”转换到“unsigned long”，可能丢失数据
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(321): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(336): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(337): warning C4101: “i”: 未引用的局部变量
+     1>g:\lccworkplace_study\vs2010\seriesport_2\seriesport\seriesport\tls.cpp(337): warning C4101: “readbyts”: 未引用的局部变量
+         main.cpp
+         dp_GSL.cpp
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\LCCworkPlace_Study\vs2010\seriesPort_2\seriesPort\Debug\seriesPort.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\GreenSoftWare\WinGsl\Lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\seriesPort.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\LCCworkPlace_Study\vs2010\seriesPort_2\seriesPort\Debug\seriesPort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\LCCworkPlace_Study\vs2010\seriesPort_2\seriesPort\Debug\seriesPort.lib" /MACHINE:X86 Debug\dp_GSL.obj
+         Debug\main.obj
+         Debug\TLS.obj
+         seriesPort.vcxproj -> G:\LCCworkPlace_Study\vs2010\seriesPort_2\seriesPort\Debug\seriesPort.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"G:\LCCworkPlace_Study\vs2010\seriesPort_2\seriesPort\Debug\seriesPort.exe.manifest" /manifest Debug\seriesPort.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\seriesPort.unsuccessfulbuild”。
+         正在对“Debug\seriesPort.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\LCCworkPlace_Study\vs2010\seriesPort_2\seriesPort\seriesPort\seriesPort.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.74
