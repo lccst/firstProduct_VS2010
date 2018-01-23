@@ -4,7 +4,7 @@
 #include <string.h>
 #include <gsl/gsl_linalg.h>
 #include <gsl/gsl_vector.h>
-//#include <math.h>
+////#include <math.h>
 
 #include <gsl/gsl_rng.h>
 #include <gsl/gsl_randist.h>
